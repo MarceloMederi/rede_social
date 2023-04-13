@@ -1,0 +1,48 @@
+body{
+    background-image: url(imagem/capa_linkedin.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nome{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.descricao{
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 23px;
+}
+
+div{
+    display: inline-flex;
+}
+
+.div1{
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 27px;
+}
+
+.div2{
+    padding: 0 0 0 70px;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 27px;
+}
+
+.git{
+    width:20px;
+    height: 20px;
+}
+
+.lin{
+    width:20px;
+    height: 20px;
+}
